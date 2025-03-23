@@ -87,8 +87,3 @@ This project is licensed under the MIT License.
 You are free to use, modify, and distribute it as long as proper attribution is given.
 
 ---
-
-## Credits
-
-Built by Deepansh as part of a machine learning study project.
-
